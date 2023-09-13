@@ -9,11 +9,13 @@
 </div>
 
 ### 📫 How to reach me
-- <a href="https://t.me/Nik0laev_Aleksandr"><img src="https://github.com/OneCellDM/OneCellDM/blob/main/TG.png" height="50" alt="TG-logo"/></a>
-- <a href="https://vk.com/k0k0k0s" style="margin:22px 0"><img src="https://github.com/OneCellDM/OneCellDM/blob/main/vk.png" height="45" alt="vk-logo" /></a>
-- <a href="mailto:sanek22cs@gmail.com"><img src="https://github.com/OneCellDM/OneCellDM/blob/main/gmail.webp" height="45" alt="gmail" /></a>
-
 > Messenger contact will more faster
+<div align="Center">
+ <a href="https://t.me/Nik0laev_Aleksandr"><img src="https://github.com/OneCellDM/OneCellDM/blob/main/TG.png" height="50" alt="TG-logo"/></a>
+ <a href="https://vk.com/k0k0k0s" style="margin:22px 0"><img src="https://github.com/OneCellDM/OneCellDM/blob/main/vk.png" height="45" alt="vk-logo" /></a>
+ <a href="mailto:sanek22cs@gmail.com"><img src="https://github.com/OneCellDM/OneCellDM/blob/main/gmail.webp" height="45" alt="gmail" /></a>
+</div>
+
 
 ### Stats
 <div align="Center">
